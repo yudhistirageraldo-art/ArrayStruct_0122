@@ -29,4 +29,5 @@ int main()
 
     // menalpilkan data dengan perintah satu persatu
     cout << "data pertama = " << datamu[0] << endl;
+   
 }
