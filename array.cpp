@@ -8,4 +8,5 @@ int main()
     //deklarasi tanpa inisialisasi
     int datamu[5];
 
+
 }
