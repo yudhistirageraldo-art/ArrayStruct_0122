@@ -25,5 +25,8 @@ int main()
     cin >> datamu[3];
     cout << "Isikan data kelima : ";
     cin >> datamu[4];
+    cout << endl;
 
+    // menalpilkan data dengan perintah satu persatu
+    cout << "data pertama = " << datamu[0] << endl;
 }
